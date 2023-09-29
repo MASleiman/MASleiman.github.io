@@ -278,7 +278,7 @@ export const Bio= {
       school: "Pickering High School",
       date: "Sept 2018 - June 2022",
       grade: "97%",
-      desc: "Acquired my Ontario Secondary School Diploma from Pickering High School. Achieved a 97+% average with a Gifted Certificate. Received the OPG Engineering Award for academic excellence in pursuit of an engineering degree. President of  the PHS Engineering Club and active member in PHS Investment Club. Played Junior and Senior Soccer.I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
+      desc: "Acquired my Ontario Secondary School Diploma from Pickering High School. Achieved a 97+% average with a Gifted Certificate. Received the OPG Engineering Award for academic excellence in pursuit of an engineering degree. President of  the PHS Engineering Club and active member in PHS Investment Club. Played Junior and Senior Soccer.",
       degree: "Ontario Secondary School Diploma",
     },
   ];
