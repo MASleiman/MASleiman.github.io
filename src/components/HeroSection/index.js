@@ -66,7 +66,7 @@ const HeroLeftContainer = styled.div`
     margin-bottom: 32px;
     display: flex;
     align-items: center;
-    flex-direction: center;
+    flex-direction: column;
   }
   
   @media screen and (max-width: 640px) {
@@ -74,7 +74,7 @@ const HeroLeftContainer = styled.div`
     margin-bottom: 32px;
     display: flex;
     align-items: center;
-    flex-direction: center;
+    flex-direction: column;
   }
 `;
 
