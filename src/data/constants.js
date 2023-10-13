@@ -306,7 +306,7 @@ export const Bio= {
         // "Redux",
       ],
       category: "Design Course",
-      // github: "https://github.com/MSleim/BrailleBot",
+      Github: "https://drive.google.com/file/d/1Tfl8ewqfY8mrtQgCoFCtAXMIvqQrczvH/view?usp=drive_link",
     },
     {
       id: 0,
@@ -318,6 +318,7 @@ export const Bio= {
         "https://i.imgur.com/wbTMw3h.jpg",
       // tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
       category: "Design Course",
+      Github:"https://drive.google.com/file/d/1wAUwWukA6GYIHj1Dm5uxK6uBOmLAhGtC/view?usp=drive_link" ,
       // member: [
       //   {
       //     name: "Rishav Chanda",
@@ -350,6 +351,7 @@ export const Bio= {
         // "NodeMailer",
       ],
       category: "Professional Initiatives",
+      Github: "https://drive.google.com/file/d/1NUr9B964V-mRkFhR5-We3SAyCogo0x7v/view?usp=drive_link",
     },
     {
       id: 2,
@@ -361,6 +363,7 @@ export const Bio= {
         "https://i.imgur.com/c2raWcS.png",
       // tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
       category: "Personal Projects",
+      Github: "https://drive.google.com/file/d/1xrD5HotCBnkSHGR-kzQMgVJoyIWHR1bA/view?usp=drive_link",
       member: [
         // {
         //   name: "Rishav Chanda",
