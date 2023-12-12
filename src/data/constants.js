@@ -170,21 +170,6 @@ export const Bio= {
   export const experiences = [
     {
       id: 0,
-      img: "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/hpax2iqf1wxrodpj03j2",
-      role: "Manufacturing Engineer",
-      company: "Magna: Modatek Systems",
-      date: "Sept 2023 - Present",
-      desc: "In progress. \n Expected duties: Utilizing CAD software to create product overlays and 2D drawings, as well as generating stamping fast blanks and summarizing the stamping process. Additionally, responsibilities encompass coordinating and managing product data and bills of materials (BOM), designing and arranging meetings and presentations, and maintaining organized project-related customer and internal information.",
-      skills: [
-        "SolidWorks",
-        "Time Studies",
-        "MS Excel",
-        "Design",
-        "BOM Manipulation",
-      ]
-    },
-    {
-      id: 0,
       img: "https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,f_auto,h_200,w_200/v1403818360/npo3wfmpth8pjggtvfsn.png",
       role: "SDI and CSW Core Member",
       company: "UWAFT EcoCar Design Team",
@@ -198,6 +183,43 @@ export const Bio= {
         "Siemens NX",
         "Altair HyperMesh",
         "Altair HyperWorks",
+      ]
+    },
+    {
+      id: 1,
+      img: "https://images.squarespace-cdn.com/content/v1/53e23360e4b0d6343faea854/1592945349374-PESHTZ3ACH0YLDY1XE0Z/ATA+2020+logo+-+online.png?format=1500w",
+      role: "Engineering Co-op Student",
+      company: "Advanced Test & Automation",
+      date: "Nov 2023 - Jan 2024",
+      desc: "Applied LabVIEW for graphics programming, integrated instrument control, and implemented efficient data acquisition through NI MAX to enhance system automation. Wired and commissioned electrical components based on schematics to ensure optimal functionality during system commissioning. Compiled technical reports for clients detailing product maintenance. Achieved a 17% material cost reduction through machining modifications.",
+      skills: [
+        "NI MAX",
+        "SolidWorks",
+        "LabVIEW",
+        "Techincal Writing",
+        "Electrical Wiring",
+        "Device Commissioning",
+        "Drill & Tap",
+        "Troubleshooting & Maintenance",
+        "System Design",
+        "Purchasing",
+        "R&D",
+        "DAQ"
+      ],
+    },
+    {
+      id: 0,
+      img: "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/hpax2iqf1wxrodpj03j2",
+      role: "Manufacturing Engineer",
+      company: "Magna: Modatek Systems",
+      date: "Sept 2023 - Oct 2023",
+      desc: "Conducted comprehensive time-studies on robotic assembly stations, optimizing efficiency along the production line. Researched the manufacturing process of vehicle subframes and cross members, with a particular focus on Ford Bronco assembly.",
+      skills: [
+        "SolidWorks",
+        "Time Studies",
+        "MS Excel",
+        "Design",
+        "BOM Manipulation",
       ]
     },
     {
