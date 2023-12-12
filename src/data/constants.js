@@ -12,7 +12,7 @@ export const Bio= {
     
     //Update these
     resume:
-      "https://drive.google.com/file/d/13FNleS5qnn3Kj3EW2lH6Kfjub_GW7Yns/view?usp=sharing",
+      "https://drive.google.com/file/d/1_3othOgKVufazIORYUIgnD-r2kt0qZi3/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/ma-sleiman/",
   };
   
@@ -162,6 +162,16 @@ export const Bio= {
           name: "Jupyter",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png",
+        },
+        {
+          name: "NI MAX",
+          image:
+            "https://cdn.iconscout.com/icon/free/png-256/free-national-instruments-2849938-2370675.png?f=webp",
+        },
+        {
+          name: "LabVIEW",
+          image:
+            "https://cdn.icon-icons.com/icons2/74/PNG/256/labview_14599.png",
         },
       ],
     },
