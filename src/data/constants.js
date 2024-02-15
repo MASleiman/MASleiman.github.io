@@ -12,7 +12,7 @@ export const Bio= {
     
     //Update these
     resume:
-      "https://drive.google.com/file/d/1_3othOgKVufazIORYUIgnD-r2kt0qZi3/view?usp=sharing",
+      "https://drive.google.com/file/d/1CU7nBHdK0KBDFJKfJ8xk1z9PXrtsjmSD/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/ma-sleiman/",
   };
   
