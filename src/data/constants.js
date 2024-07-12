@@ -196,6 +196,17 @@ export const Bio= {
       ]
     },
     {
+      id: 0,
+      img: "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/dbw3b0waqceb0mp4nwo9",
+      role: "Project Manager - Customer Experience",
+      company: "Airbus",
+      date: "May 2024 - Present",
+      desc: "In Progress",
+      skills: [
+        "Java"
+      ]
+    },
+    {
       id: 1,
       img: "https://images.squarespace-cdn.com/content/v1/53e23360e4b0d6343faea854/1592945349374-PESHTZ3ACH0YLDY1XE0Z/ATA+2020+logo+-+online.png?format=1500w",
       role: "Engineering Co-op Student",
